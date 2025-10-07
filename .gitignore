@@ -14,3 +14,6 @@ __MACOSX
 node_modules
 .DS_Store
 __MACOSX
+node_modules
+.DS_Store
+__MACOSX
